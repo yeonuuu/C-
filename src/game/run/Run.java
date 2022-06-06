@@ -1,9 +1,9 @@
-package run;
+package game.run;
 
 import java.io.IOException;
 
 import game.controller.*;
-import model.vo.*;
+import game.components.*;
 
 public class Run {
 	

@@ -1,6 +1,6 @@
 package game.controller;
 
-import model.vo.*;
+import game.components.*;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
